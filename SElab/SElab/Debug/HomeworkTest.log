@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(330): warning C4101: “i”: 未引用的局部变量
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(1072): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(302): warning C4715: “identifier”: 不是所有的控件路径都返回值
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(552): warning C4715: “change1”: 不是所有的控件路径都返回值
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(583): warning C4715: “change2”: 不是所有的控件路径都返回值
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(662): warning C4715: “lrparse1”: 不是所有的控件路径都返回值
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(802): warning C4715: “lrparse2”: 不是所有的控件路径都返回值
+C:\Users\王\Desktop\HomeworkTest\HomeworkTest\main.cpp(991): warning C4715: “lrparse”: 不是所有的控件路径都返回值
+  HomeworkTest.vcxproj -> C:\Users\王\Desktop\HomeworkTest\Debug\HomeworkTest.exe
